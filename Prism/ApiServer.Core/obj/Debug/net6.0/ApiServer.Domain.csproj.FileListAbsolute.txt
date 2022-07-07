@@ -1,0 +1,12 @@
+D:\Repository\Prism\ApiServer.Core\bin\Debug\net6.0\ApiServer.Domain.deps.json
+D:\Repository\Prism\ApiServer.Core\bin\Debug\net6.0\ApiServer.Domain.dll
+D:\Repository\Prism\ApiServer.Core\bin\Debug\net6.0\ApiServer.Domain.pdb
+D:\Repository\Prism\ApiServer.Core\obj\Debug\net6.0\ApiServer.Domain.csproj.AssemblyReference.cache
+D:\Repository\Prism\ApiServer.Core\obj\Debug\net6.0\ApiServer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repository\Prism\ApiServer.Core\obj\Debug\net6.0\ApiServer.Domain.AssemblyInfoInputs.cache
+D:\Repository\Prism\ApiServer.Core\obj\Debug\net6.0\ApiServer.Domain.AssemblyInfo.cs
+D:\Repository\Prism\ApiServer.Core\obj\Debug\net6.0\ApiServer.Domain.csproj.CoreCompileInputs.cache
+D:\Repository\Prism\ApiServer.Core\obj\Debug\net6.0\ApiServer.Domain.dll
+D:\Repository\Prism\ApiServer.Core\obj\Debug\net6.0\refint\ApiServer.Domain.dll
+D:\Repository\Prism\ApiServer.Core\obj\Debug\net6.0\ApiServer.Domain.pdb
+D:\Repository\Prism\ApiServer.Core\obj\Debug\net6.0\ref\ApiServer.Domain.dll

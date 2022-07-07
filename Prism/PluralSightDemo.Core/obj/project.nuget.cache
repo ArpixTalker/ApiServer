@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yLcQPgBWJVEhYCS81KT4IdSzCp6nbRDnzbhH86XqFc3elvpSo+O3pqirX6UgScLrWMqHZX8Lng0jMs9GVRy8mg==",
+  "success": true,
+  "projectFilePath": "D:\\Repository\\Prism\\PluralSightDemo.Core\\PluralSightDemo.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\snipe\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
+    "C:\\Users\\snipe\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
+    "C:\\Users\\snipe\\.nuget\\packages\\prism.wpf\\8.1.97\\prism.wpf.8.1.97.nupkg.sha512"
+  ],
+  "logs": []
+}
